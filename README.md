@@ -1,2 +1,2 @@
 # DonkeyType
-typing script for powershell console 
+typing program for powershell console 
